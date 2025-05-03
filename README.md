@@ -26,6 +26,9 @@ It provides detailed information about your repositories, including open pull re
    pip install -r requirements.txt
    ```
 3. Update the .env file with your GitHub token
+   ```bash
+   GITHUB_TOKEN=
+   ```
 
 ## Usage
 Run the tool using:
